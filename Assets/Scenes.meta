@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+<<<<<<< .mine
+guid: 2c8cca0827630e345bf27fd7a9bdf9b2
+||||||| .r3
+guid: 67229d11960dbb342a82299b23e6d1f8
+=======
+guid: 016625e22bb49ee44b837cdb688a4800
+>>>>>>> .r6
+folderAsset: yes
+<<<<<<< .mine
+timeCreated: 1495851108
+||||||| .r3
+timeCreated: 1495851126
+=======
+timeCreated: 1495855805
+>>>>>>> .r6
+licenseType: Free
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
